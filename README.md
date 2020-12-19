@@ -1,4 +1,4 @@
-<p align="center">Coding Challenge</p>
+<h1 align="center">Coding Challenge</h1>
 
 
 
